@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Tools/akka-2.0.2/lib/akka/akka-actor-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/akka-2.0.2/lib/akka/akka-kernel-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/akka-2.0.2/lib/scala-library.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/akka-2.0.2/lib/akka/akka-remote-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/akka-2.0.2/lib/akka/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/akka-2.0.2/lib/akka/netty-3.3.0.Final.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
